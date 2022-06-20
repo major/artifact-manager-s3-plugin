@@ -18,7 +18,7 @@
     <changelist>-SNAPSHOT</changelist>
     <jenkins.version>2.235.2</jenkins.version>
     <java.level>8</java.level>
-    <workflow-multibranch-plugin.version>2.22</workflow-multibranch-plugin.version>
+    <workflow-multibranch-plugin.version>707.v71c3f0a_6ccdb_</workflow-multibranch-plugin.version>
     <useBeta>true</useBeta>
   </properties>
 
